@@ -1,0 +1,29 @@
+body
+{
+	background-image: url("math.jpg");
+	background-size:auto;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#text{
+	font-family: 'PT Serif', serif;
+}
+#button{
+	background-color: #34d8eb;
+	width: 30%;
+	height: 40px;
+	border-radius: 15px;
+}
