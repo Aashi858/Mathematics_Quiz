@@ -36,3 +36,13 @@ padding: 10px;
 float: none;
 text-align: left;
 }
+#player1Name,#player1Score
+{
+display: inline-block;
+color: snow;
+}
+#player2Name,#player2Score
+{
+display: inline-block;
+color: snow;
+}
